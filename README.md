@@ -29,8 +29,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `start with docker`
 
-docker build -t currency-app .
-docker run -it -p 8080:3000 --rm currency-app.
+docker build -t currency-app .<br/>
+docker run -it -p 8080:3000 --rm currency-app.<br/>
 open localhost:8080 in your browser
 
 ## Learn More
