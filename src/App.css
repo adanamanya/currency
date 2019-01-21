@@ -7,9 +7,40 @@
   height: 40vmin;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.card {
+  min-width: 38ex;
+  align-content: flex-start;
+  margin-bottom: 3ex;
+}
+
+.title1{
+  align-self: flex-start;
+  margin-left: 2ex;
+}
+.title3{
+  align-self: flex-start;
+  color: #000;
+}
+.textinput{
+  align-self: flex-end;
+  text-align: center;
+  width: 12ex;
+  -ms-flex-align: center
+}
+.deletebutton{
+  align-self: flex-end;
+}
+.title2{
+  align-self: flex-start;
+  margin-top: -0.08ex;
+}
+.title4{
+  align-self: flex-end;
+}
+.App-body {
+  background-color: #ffff;
+  min-height: 40vh;
+  margin-top: 5ex;
   display: flex;
   flex-direction: column;
   align-items: center;

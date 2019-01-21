@@ -1,0 +1,46 @@
+{
+  "currencies":[
+  {
+    "value": "USD",
+    "label": "United States Dollar"
+  },
+  {
+    "value": "CAD",
+    "label": "Canadian Dollar"
+  },
+  {
+    "value": "IDR",
+    "label": "Indonesian Rupiah"
+  },
+  {
+    "value": "GBP",
+    "label": "British Pound sterling"
+  },
+  {
+    "value": "CHF",
+    "label": "Swiss Franc"
+  },
+  {
+    "value": "SGD",
+    "label": "Singapore Dollar"
+  },
+  {
+    "value": "INR",
+    "label": "Indian Rupee"
+  },
+  {
+    "value": "MYR",
+    "label": "Malaysian Ringgit"
+  },
+  {
+    "value": "JPY",
+    "label": "Japan Yen"
+  },
+  {
+    "value": "KRW",
+    "label": "Korean Won"
+  }
+]
+
+
+}

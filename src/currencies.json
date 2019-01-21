@@ -1,0 +1,64 @@
+{
+    "currencies":[
+    {
+      "value": "NZD",
+      "label": "NZD - New Zealand Dollar"
+    },
+    {
+      "value": "EUR",
+      "label": "EUR - Euro"
+    },
+    {
+      "value": "AUD",
+      "label": "AUD - Australian Dollar"
+    },
+    {
+      "value": "HKD",
+      "label": "HKD - Hong Kong Dollar"
+    },
+    {
+      "value": "CNY",
+      "label": "CNY - Yuan Renminbi"
+    },
+    {
+      "value": "USD",
+      "label": "USD - United States Dollar"
+    },
+    {
+      "value": "CAD",
+      "label": "CAD - Canadian Dollar"
+    },
+    {
+      "value": "IDR",
+       "label": "IDR - Indonesian Rupiah"
+      },
+      {
+        "value": "GBP",
+        "label": "GBP - British Pound sterling"
+      },
+      {
+        "value": "CHF",
+        "label": "CHF - Swiss Franc"
+      },
+      {
+        "value": "SGD",
+        "label": "SGP - Singapore Dollar"
+      },
+      {
+        "value": "INR",
+        "label": "INR - Indian Rupee"
+      },
+      {
+        "value": "MYR",
+        "label": "MYR - Malaysian Ringgit"
+      },
+      {
+        "value": "JPY",
+        "label": "JPY - Japan Yen"
+      },
+      {
+        "value": "KRW",
+        "label": "KRW - Korean Won"
+      }
+  ]
+}
